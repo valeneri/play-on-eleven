@@ -1,0 +1,14 @@
+{
+    "Db": {
+        "database_type": "mongodb",
+        "database_url": "mongodb://play-on-eleven-mongo",
+        "database_name": "play-dev",
+        "username": "valou5940",
+        "password": "5ekr3t@",
+        "pool_size": 35,
+        "timeout": 10
+    },
+    "Server": {
+        "port": ":8080"
+    }
+}
