@@ -1,4 +1,4 @@
-module play-on-eleven/backend
+module github.com/valeneri/play-on-eleven/backend
 
 go 1.13
 

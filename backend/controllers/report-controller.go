@@ -3,10 +3,11 @@ package controllers
 import (
 	"encoding/json"
 	"fmt"
-	"play-on-eleven/backend/daos"
-	"play-on-eleven/backend/models"
-	"play-on-eleven/backend/router"
-	"play-on-eleven/backend/server"
+
+	"github.com/valeneri/play-on-eleven/backend/daos"
+	"github.com/valeneri/play-on-eleven/backend/models"
+	"github.com/valeneri/play-on-eleven/backend/router"
+	"github.com/valeneri/play-on-eleven/backend/server"
 
 	"net/http"
 )

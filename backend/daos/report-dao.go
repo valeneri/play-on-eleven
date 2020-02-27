@@ -4,8 +4,9 @@ import (
 	"context"
 	"errors"
 	"fmt"
-	"play-on-eleven/backend/models"
-	"play-on-eleven/backend/server"
+
+	"github.com/valeneri/play-on-eleven/backend/models"
+	"github.com/valeneri/play-on-eleven/backend/server"
 
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"

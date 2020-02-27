@@ -4,9 +4,9 @@ import (
 	"log"
 	"net/http"
 
-	"play-on-eleven/backend/controllers"
-	"play-on-eleven/backend/router"
-	"play-on-eleven/backend/server"
+	"github.com/valeneri/play-on-eleven/backend/controllers"
+	"github.com/valeneri/play-on-eleven/backend/router"
+	"github.com/valeneri/play-on-eleven/backend/server"
 )
 
 func main() {
